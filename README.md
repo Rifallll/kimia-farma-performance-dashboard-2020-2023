@@ -1,4 +1,5 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1cfc652-cbdb-41da-833e-ec432f34b343" /># Performance Analytics Kimia Farma (2020–2023)
+<img width="1920" height="1080" alt="image" src="<img width="1912" height="982" alt="image" src="https://github.com/user-attachments/assets/005738b0-6049-4057-9024-0ab789fad431" />
+" /># Performance Analytics Kimia Farma (2020–2023)
 
 ## Project Overview
 Proyek ini bertujuan untuk menganalisis performa penjualan Kimia Farma periode 2020–2023 menggunakan Google BigQuery dan Looker Studio.
