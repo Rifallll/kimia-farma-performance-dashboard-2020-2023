@@ -1,4 +1,4 @@
-src="<img width="1912" height="982" alt="image" src="https://github.com/user-attachments/assets/005738b0-6049-4057-9024-0ab789fad431" />
+<img width="1912" height="982" alt="image" src="https://github.com/user-attachments/assets/005738b0-6049-4057-9024-0ab789fad431" />
 " /># Performance Analytics Kimia Farma (2020–2023)
 
 ## Project Overview
