@@ -1,4 +1,4 @@
-# Performance Analytics Kimia Farma (2020–2023)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1cfc652-cbdb-41da-833e-ec432f34b343" /># Performance Analytics Kimia Farma (2020–2023)
 
 ## Project Overview
 Proyek ini bertujuan untuk menganalisis performa penjualan Kimia Farma periode 2020–2023 menggunakan Google BigQuery dan Looker Studio.
@@ -19,6 +19,9 @@ Proyek ini bertujuan untuk menganalisis performa penjualan Kimia Farma periode 2
 - Nett Profit
 - Total Transaction
 - Branch Performance
+
+Nett Sales: Rp86,89 Miliar
+Nett Profit: Rp24,67 Miliar
 
 ## Dashboard
 Interactive Dashboard:
